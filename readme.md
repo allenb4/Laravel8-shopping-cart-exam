@@ -13,3 +13,10 @@
 11. Run 'php artisan db:seed'
 12. Run 'php artisan serve' and go to browser and navigate to the localhost indicated.
 
+## Login Routes
+1. To Login as admin go to 'http://localhost:8000/admin/login'
+2. To Login as user go to 'http://localhost:8000/login'
+3. To Register click the Sign Up button or Find the Register Button at the Upper Right of the login page.
+
+## ENJOY
+
